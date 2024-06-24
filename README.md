@@ -9,4 +9,4 @@ This repository contains the source code of my **Personal Portfolio**.
 - JavaScript
 
 ## License 
-Even though it's a small fun project there is an open-source license for this repo! You can find it [here](LICENCE).
+Even though it's a small fun project there is an open-source license for this repo! You can find it [here](LICENSE).
